@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/election2016image.jpg
-title: Data Analysis on Election 2016
+title: Vacay
 permalink: projects/election2016
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-19
@@ -12,6 +12,7 @@ labels:
   - pandas
 summary: The analysis is done on the donations collected by www.fec.gov to the two candidates: Donald Trump and Hillary Clinton. 
 ---
+
 # Election-2016-Data-Analysis (please click on the .ipynd to view the code)
 Data Analysis on 2016 Election between Donald Trump and Hillary Clinton. The purpose of this project is to see if the amount of donors to donate to the candidates can affect directly their chances of winning the heart of American people, and hence, the Election.
 
