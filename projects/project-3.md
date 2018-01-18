@@ -28,10 +28,10 @@ This is the Transmitter Feather. As of for now, it is equipped with light sensor
 <center>The Transmitter Feather is equipped with Lithium battery and solar panel. The Solar Panel powers the feather and charge the battery during daytime, so that when night time comes, or during cloudy/rainy day, the feather can be powered by the battery.</center>
 
 ![receiver board feather](https://cloud.githubusercontent.com/assets/21114221/23250383/03df136c-f94d-11e6-88e7-c5c3d4cba7fe.png)
-<center>This is the Receiver Feather. It will receive all the environmental data that the transmitters pick up in the surrounding.</center>
+This is the Receiver Feather. It will receive all the environmental data that the transmitters pick up in the surrounding.
 
 ![distance the sensors can communicate with obstacles](https://cloud.githubusercontent.com/assets/21114221/23250399/173aa03e-f94d-11e6-905b-b898bb67138f.PNG)
-<center>The two feathers can communicate with each other at the maximum of 226m if there are obstacles in the surrounding. This location is in Kapiolani Community College. </center>
+The two feathers can communicate with each other at the maximum of 226m if there are obstacles in the surrounding. This location is in Kapiolani Community College.
 
 ![distance the sensors can communicate without obstacles](https://cloud.githubusercontent.com/assets/21114221/23250413/24c5cc7e-f94d-11e6-8e0b-45dd668b4d00.PNG)
 <center>The two feathers can communicate with each other at the maximum of 1.09km (or 0.6 miles) when there are no obstacles around. This location is in Kahala beach park. </center>
