@@ -17,8 +17,8 @@ The purpose of this project is to learn how to use Alamofire as a tool to consum
 Here are the snap shoots from the app.
 
 <div class="ui small rounded images">
-  <img src="../images/chuckNorrisApp1.png">
-  <img class="ui image" src="../images/chuckNorrisApp2.png">
+  <img class="image" src="../images/chuckNorrisApp1.png">
+  <img class="image" src="../images/chuckNorrisApp2.png">
 </div>
 
 You can learn more at https://github.com/thinhtedlam/ChuckNorriss
