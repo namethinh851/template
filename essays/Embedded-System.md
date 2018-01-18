@@ -51,7 +51,7 @@ Raspberry Pi was created by Raspberry Pi Foundation in 2015. The main goal for t
 ## Conclusion
 As the future is getting more technologically advanced, embedded systems will become more widely used and familiarized to more people all over the world. Because of its inevident future, the sooner one gets to know the system, the better since it will open many doors for inventions that can change people’s lives, and even the whole world. One excellent example is the rapid growth of smart mobile devices. Therefore, I am excited for the next big thing that embedded systems have in store for humanity.
 
-###References:
+### References:
 
 1. M. Rouse, “What is embedded system? - Definition from WhatIs.com,” IoT Agenda, Dec-2016. [Online]. Available: http://internetofthingsagenda.techtarget.com/definition/embedded-system.
 2. J. Pultorak, “NASA Office of Logic Design,” Block I Apollo Guidance Computer (AGC): How to build one in your basement, 03-Feb-2010. [Online]. Available: http://klabs.org/history/build_agc/.
