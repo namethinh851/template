@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/chucknorris.png
+title: Chuck Norris Quotes iOS App
+permalink: projects/chucknorris
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - iOS
+  - XCode
+  - Swift
+summary: An iOS app that generates different Chuck Norris quote.
+projecturl: http://https://github.com/thinhtedlam/ChuckNorriss
 ---
 
 <div class="ui small rounded images">
