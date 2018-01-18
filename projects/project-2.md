@@ -5,13 +5,12 @@ image: images/election2016image.jpg
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-19
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - python
+  - numpy
+  - pandas
+summary: The analysis is done on the donations collected by www.fec.gov to the two candidates: Donald Trump and Hillary Clinton.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
