@@ -11,7 +11,7 @@ labels:
   - XCode
   - Swift
 summary: An iOS app that generates different Chuck Norris quote.
-projecturl: http://https://github.com/thinhtedlam/ChuckNorriss
+projecturl: https://github.com/thinhtedlam/ChuckNorriss
 ---
 
 <div class="ui small rounded images">
