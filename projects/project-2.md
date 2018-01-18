@@ -13,7 +13,6 @@ labels:
 summary: The analysis is done on the donations collected by www.fec.gov to Donald Trump and Hillary Clinton.
 ---
 
-# Election-2016-Data-Analysis (please click on the .ipynd to view the code)
 Data Analysis on 2016 Election between Donald Trump and Hillary Clinton. The purpose of this project is to see if the amount of donors to donate to the candidates can affect directly their chances of winning the heart of American people, and hence, the Election.
 
 The graph below illustrates the amount of donors for Hillary Clinton is much greater than Trump's. 
