@@ -19,6 +19,7 @@ Although the things listed above sounds relatively new to us, the embedded syste
 <img class="ui medium left floated image" src="../images/embeddedsystem1.png">
 The First Embedded System: Apollo Guidance Computer [3]
 
+
 In 1965, just a few years after, the first commercial computer, PDP-8, was introduced to the world. It was developed by Digital Equipment Corporation and became the world’s best selling computer in 1973 [4]. After such victory, people started to integrate embedded systems into more things, such as automobile (Volkswagen 1600’s) in 1969. Inevidently, it gave birth to many things that people cannot live without, such as: home computer in 1975, the worldwide web and printers in 1989, and 10 million mobile phones in 1992 [5].
 
 ## Real Time Operating Systems
@@ -32,6 +33,7 @@ Another RTOS just as famous as FreeRTOS is RTLinux. People usually confuse this 
 
 <img class="ui medium left floated image" src="../images/embeddedsystem2.png">
 The architecture of RTLinux [9]
+
 
 The three important things to take away from this figure are that: RTLinux places itself between the real hardware and the kernel, it behaves as the hardware for kernel, and processes the kernel as a single big process. All of these structures allow it to give real-time response to all RT tasks whenever they need resources, and all non-RT tasks can be executed by the kernel when the OS is in idle state [9].
 
@@ -48,3 +50,18 @@ Raspberry Pi was created by Raspberry Pi Foundation in 2015. The main goal for t
 
 ## Conclusion
 As the future is getting more technologically advanced, embedded systems will become more widely used and familiarized to more people all over the world. Because of its inevident future, the sooner one gets to know the system, the better since it will open many doors for inventions that can change people’s lives, and even the whole world. One excellent example is the rapid growth of smart mobile devices. Therefore, I am excited for the next big thing that embedded systems have in store for humanity.
+
+###References:
+
+1. M. Rouse, “What is embedded system? - Definition from WhatIs.com,” IoT Agenda, Dec-2016. [Online]. Available: http://internetofthingsagenda.techtarget.com/definition/embedded-system.
+2. J. Pultorak, “NASA Office of Logic Design,” Block I Apollo Guidance Computer (AGC): How to build one in your basement, 03-Feb-2010. [Online]. Available: http://klabs.org/history/build_agc/.
+3. “Artifact Details” Computer History Museum. [Online]. Available: http://www.computerhistory.org/collections/catalog/102622655.
+4. D. Jones, “What is a PDP-5?,” faqs.org, 27-Mar-2014. [Online]. Available: http://www.faqs.org/faqs/dec-faq/pdp8-models/section-1.html#b.
+5. “Embedded In Our Society: A History Of Embedded Operating Systems,” Hughes Systique Corp., 18-Feb-2014. [Online]. Available: https://hsc.com/Blog/Embedded-In-Our-Society-A-History-Of-Embedded-Operating-Systems-1.
+6. “What is a Real-Time Operating System (RTOS)?,” What is a Real-Time Operating System (RTOS)? - National Instruments, 22-Nov-2013. [Online]. Available: http://www.ni.com/white-paper/3938/en/.
+7. “Intro to Real-Time Linux for Embedded Developers,” The Linux Foundation, 22-Aug-2017. [Online]. Available: https://www.linuxfoundation.org/blog/intro-to-real-time-linux-for-embedded-developers/.
+8. “FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions,” FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions. [Online]. Available: http://www.freertos.org/.
+9. M. Kumar The author is a freelance developer and trainer. He leads a team in Linux kernel programming, Linux administration, cluster computing, embedded systems and QT/GTK programming on Linux. View and participate in the latest discussions on his Yahoo Group., “Getting Started with RTLinux,” Open Source For You, 28-Jun-2016. [Online]. Available: http://opensourceforu.com/2010/12/getting-started-with-rtlinux/.
+10. M. Rouse, “What is VxWorks? - Definition from WhatIs.com,” SearchNetworking, Jun-2007. [Online]. Available: http://searchnetworking.techtarget.com/definition/VxWorks.
+11. S. Shodhan Follow, “TinyOS,” LinkedIn SlideShare, 08-Nov-2013. [Online]. Available: https://www.slideshare.net/snecute/tinyos.
+12. N. Heath | in European Technology, April 22, 2012, 9:13 PM PST, “10 coolest uses for the Raspberry Pi,” TechRepublic, 22-Apr-2012. [Online]. Available: http://www.techrepublic.com/blog/european-technology/10-coolest-uses-for-the-raspberry-pi/.
