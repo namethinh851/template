@@ -25,6 +25,7 @@ Here are the pictures of the parts that we use:
 This is the Transmitter Feather. As of for now, it is equipped with light sensors and temperature-humidity-pressure sensors. These sensors will pick up information around the surrounding.
 
 ![ff](https://cloud.githubusercontent.com/assets/21114221/23250360/e24c0048-f94c-11e6-8d1a-456643099a68.png)
+
 The Transmitter Feather is equipped with Lithium battery and solar panel. The Solar Panel powers the feather and charge the battery during daytime, so that when night time comes, or during cloudy/rainy day, the feather can be powered by the battery.
 
 ![receiver board feather](https://cloud.githubusercontent.com/assets/21114221/23250383/03df136c-f94d-11e6-88e7-c5c3d4cba7fe.png)
