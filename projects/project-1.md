@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/chucknorris.png
+image: images/chucknorrisimage.png
 title: Chuck Norris Quotes iOS App
 permalink: projects/chucknorris
 # All dates must be YYYY-MM-DD format!
