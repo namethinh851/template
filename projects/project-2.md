@@ -10,7 +10,7 @@ labels:
   - python
   - numpy
   - pandas
-summary: The analysis is done on the donations collected by www.fec.gov to the two candidates: Donald Trump and Hillary Clinton.
+summary: The analysis is done on the donations collected by www.fec.gov to Donald Trump and Hillary Clinton.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
