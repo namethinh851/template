@@ -9,7 +9,6 @@ labels:
   - Beginner's Guide
 ---
 
-<img class="ui medium left floated image" src="../images/embeddedsystem1.png">
 
 An embedded system is a fixed or programmable combination of computer hardware and software. It is designed with specific functions in mind or used as part of a larger system. It does not have to be as simple as a computing system with no user interface. An embedded system can be complex as a mobile devices, equipped with graphical user interfaces and powerful processors. Therefore, anybody can readily find one anywhere in the world, such as:  automobiles, medical equipments, cameras, household appliances, airplanes, vending machines, toys, etc.[1]. In other words, it is the embedded systems that make the world go around. If all of them were to stop working just for 1 minute, absolute choas and unfathomable destructions are the only words can describe such event. Due to its importance, this essay is dedicated to explore what embedded systems are and how they are are used.
 
