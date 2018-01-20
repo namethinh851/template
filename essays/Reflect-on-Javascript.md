@@ -8,6 +8,7 @@ labels:
   - Javascript
 ---
 According to an article by PsychologyToday, a famous digital magazine for human psychology, intuition is defined as "Intuition is a process that gives us the ability to know something directly without analytic reasoning, bridging the gap between the conscious and nonconscious parts of our mind, and also between instinct and reason." In other words, it is the ability to identify something without the need of it being evident. I believe that Javascript has this ability. It has a good intuition because it knows what the programmer wants without he/she coding everything plainly. A good example for this ability is in identifying data types (String, integers, boolean, etc.). For many other programming language, such as Java, the programmer would have to tell the compiler what the data type of the variable is, in order for the codes to be executed successfuly. However, the same thing does not happen in Javascript, this language "intuitively" knows what the programmer wants based on the input of the variable. The difference between the two are shown below:
+
 In Java:
 
 ```
