@@ -68,7 +68,7 @@ struct Color {
 ```
 After further programming for the UI and setting the right configurations in Xcode, the final product is shown in the snapshots below:
 
-<div class="ui big rounded images">
+<div class="ui small rounded images">
   <img src="../images/chuckNorrisApp1.png">
   <img src="../images/chuckNorrisApp2.png">
 </div>
