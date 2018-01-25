@@ -18,6 +18,8 @@ According to Robert Mendelsohn, an environmental economics professor at Yale Uni
 
 Providing the information that farmers wants to know to better protect and prosper their crops is what we want our farm sensors to be able to do. In order to produce such device, we uses the arduino systems. They allow us to customize which sensor we want to be included and how each one functions. The behaviors of the device are controlled by the coding in Arduino IDE. The main board that we use is Adafruit Feather M0 Radio with LoRa radio module. With the ability to communicate with other microcontrollers via radio frequency, the Adafruit Feather can send and receive the condition of the farm from other sensors in the field. As of right now, the two sensors that we use are the temperature sensors and light sensors. Additional sensors can be easily added to meet the demand of each customer.
 
+Each member in the group has his/her own responsibilites. My responsibilities is to wire all sensors and microcontroller correctly. This includes performing physical wiring and programming Arduino IDE to make sure all the parts can communicate each other as intended.
+
 Here are the pictures of the parts that we use:
 
 ![aa](https://cloud.githubusercontent.com/assets/21114221/23250210/29c6e754-f94c-11e6-8521-023e7ab9a56c.png)
