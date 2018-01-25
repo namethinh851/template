@@ -26,10 +26,10 @@ However, this is not the case. If we look at the graph at below, which is locate
 
 ![ee](https://cloud.githubusercontent.com/assets/21114221/23250700/5f385c0e-f94e-11e6-9859-3d0613a1da47.png)
 
->Up means people favor Clinton more, down means people favor Trump more.
+#####Up means people favor Clinton more, down means people favor Trump more.
 
 As the date of the General Election gets closer, Clinton starts to lose her favorbility among the American people. The reason why this happened can be left for others to discuss, the fact of the matter is: the probability of her losing the election increases each day closer to the Election day. Therefore, we can conclude that the amount of donors being donated to a candidate does not affect directly the chances of winning the Election. 
 
-The source of these data are taken from: <http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016>
+The source of these data are taken from [here](http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016)
 
 You can learn more at <https://github.com/thinhtedlam/Election-2016-Data-Analysis>
