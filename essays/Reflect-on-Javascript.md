@@ -18,9 +18,9 @@ String x = "hello"; // x is a String
 ```
 In Javascript:
 ```
-var x = 123; //x is a number
-var x = true; // x is a Boolean
-var x = "hello"; // x is a String
+let x = 123; //x is a number
+let x = true; // x is a Boolean
+let x = "hello"; // x is a String
 ```
 
 As shown in the code above, Javascript understands what the programmer wants based on the input, while Java requires the data types to be explicitly stated.
