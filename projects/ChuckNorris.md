@@ -73,7 +73,7 @@ After further programming for the UI and setting the right configurations in Xco
   <img src="../images/chuckNorrisApp2.png">
 </div>
 
-You can learn more at https://github.com/thinhtedlam/ChuckNorriss
+You can learn more at <https://github.com/thinhtedlam/ChuckNorriss>
 
 
 
