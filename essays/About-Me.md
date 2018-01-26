@@ -14,3 +14,10 @@ I entered college without knowing what I wanted to become in life. As the result
 As much as I loved studying to get into medical school, I started to feel something was still missing in my life; as if another part of me was not being used. Therefore, I dedicated my entire winter break in 2015 by taking multiple courses in Udemy.com to learn what other subjects sparked my interest. I enrolled in trading stocks, ecommerce, and programming. Of all those courses, there was one that I became extremely passionate in, and that was making iOS applications. The ability to transform an intangible idea into a tangible and usable application ignited the part of me that loved to create and build, to engineer. I immediately changed my major to computer engineering and a minor in computer science.
 
 My goal now is to combine my love for medicine and engineering, and help create something that will benefit others. Therefore, I want to implement technology into health care, in order to provide services for the people of Hawai’i in a more accessible and affordable way.
+
+<div>
+  <img src="../images/pre-med.jpg">
+</div>
+
+Source for the image: <https://www.facebook.com/TheComputerDoctorofRichmond/>
+
