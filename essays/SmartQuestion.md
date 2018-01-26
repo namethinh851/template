@@ -10,6 +10,11 @@ labels:
 ---
 As a fifteen years old Vietnamese immigrant from Vietnam to America, there was a lot of things for me to learn and experience in the new country I now declared as home. Among those things are different perspectives on asking questions. In the schools I went in Vietnam, questions during class were not encouraged because it can be interpreted as a sign of slowness in the questioner's mind. If I were to ask a question that had an obvious answer, I could tell that I had just 'dug a hole' for myself by looking at the faces of my peers; better yet, some teachers would recite the exact question I had just asked him/her as a way of telling me: "I have just told you about this." Therefore, when I moved to the classroom setting in the US, inevitably, I carried the same mindset.
 
+<div class="ui small rounded images">
+  <img src="../images/question.jpg">
+</div>
+
+
 Fortunately, this mindset started to rust away as I witnessed many teachers happily answered any questions throwing at them while saying: "There is no such thing as dumb questions!" Like a gorilla coming out of his cage, I started to fire away the questions I had in mind. There were times I received great responses from the teachers, my mind was like the clear sky after the rain. However, there were times the responses turned "raining kitty and puppy" into "cats and dogs." I soon realized that phrase "There is no such thing as dumb questions!" is not complete. The missing piece to this statement is "but there is such thing as not so smart questions!". 
 
 What was the difference between the two: asking questions the smart and not so smart way? One of the best answers to this question was answered by Eric Steven Raymond. He wrote an excellent [article](http://www.catb.org/esr/faqs/smart-questions.html#before) with the title "How To Ask Questions The Smart Way." In summary, the question that was asked in a smart way had a good amount of thoughts into it, which would help the receiver answered exactly what the sender wanted without any confusions. The "dumb-way" questions had little thought in them, which could easily make them become a duplicate or confused questions. Below are two examples from a popular online Q&A communities for software engineers, [StackOverflow](https://stackoverflow.com/).
