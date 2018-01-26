@@ -10,7 +10,7 @@ labels:
 ---
 As a fifteen years old Vietnamese immigrant from Vietnam to America, there was a lot of things for me to learn and experience in the new country I now declared as home. Among those things are different perspectives on asking questions. In the schools I went in Vietnam, questions during class were not encouraged because it can be interpreted as a sign of slowness in the questioner's mind. If I were to ask a question that had an obvious answer, I could tell that I had just 'dug a hole' for myself by looking at the faces of my peers; better yet, some teachers would recite the exact question I had just asked him/her as a way of telling me: "I have just told you about this." Therefore, when I moved to the classroom setting in the US, inevitably, I carried the same mindset.
 
-<div class="ui small rounded images">
+<div>
   <img src="../images/question.jpg">
 </div>
 
