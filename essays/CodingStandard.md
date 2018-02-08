@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Want To Go From A Good To A GREAT PROGRAMMER? Start “Assemble-lining” Your Codes!
+title: Want To Be A Great Programmer? Start “Assemble-lining” Your Codes!
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-08
 labels:
