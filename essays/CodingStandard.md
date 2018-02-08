@@ -7,9 +7,8 @@ date: 2018-02-08
 labels:
   - Javascript
 ---
-Henry Ford was not only the pioneer in automobile, he was also, according to multiple [credible sources](http://www.compelo.com/henry-ford-net-worth/), the richest person who has ever lived with the net worth of today currency of **$199 billion**. A lot of this success comes from creating assembly lines in his factories. In other words, he standardized every single procedures in how his workers making car.
-
 <img class="ui medium left floated image" src="../images/henryford.jpg">
+Henry Ford was not only the pioneer in automobile, he was also, according to multiple [credible sources](http://www.compelo.com/henry-ford-net-worth/), the richest person who has ever lived with the net worth of today currency of **$199 billion**. A lot of this success comes from creating assembly lines in his factories. In other words, he standardized every single procedures in how his workers making car.
 
 It worked so well that a single vehicle was completed in [**2 hours and 30 minutes**, instead of **12 hours**](http://www.history.com/this-day-in-history/fords-assembly-line-starts-rolling), and thus making it a lot more affordable for masses. Needless to say, Henry's method of producing goods was quickly adopted and widely used by every factory in the world. It was so big that even the world-renowed actor, Charlie Chaplin, did a [sketch about it](https://www.youtube.com/watch?v=NT-mVVprnbs).
 
