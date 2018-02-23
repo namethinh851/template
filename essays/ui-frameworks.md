@@ -27,7 +27,7 @@ Similar to the train system, programming languages are highly complex. People ha
 For bootstrap, we need to write the following code:
 
 ```
- <button type="button" class="btn btn-primary btn-md">Button</button>    
+<button type="button" class="btn btn-primary btn-md">Button</button>    
 ```
 
 For Semantic UI, we need the following code:
