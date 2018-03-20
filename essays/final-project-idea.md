@@ -21,8 +21,8 @@ Students can also set up notifications to find out where the opening locations a
 Admins can monitor the parking that are being opened and the ones being taken.
 
 Some mockup pages include:
-..* Landing page
-..* User home page
++ Landing page
++ User home page
 ..* Admin home page
 ..* User profile page
 ..* Open parking page
