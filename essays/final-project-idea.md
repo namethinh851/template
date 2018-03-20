@@ -23,9 +23,9 @@ Admins can monitor the parking that are being opened and the ones being taken.
 Some mockup pages include:
 + Landing page
 + User home page
-..* Admin home page
-..* User profile page
-..* Open parking page
++ Admin home page
++ User profile page
++ Open parking page
 
 ### Use case ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
