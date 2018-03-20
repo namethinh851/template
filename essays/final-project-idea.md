@@ -9,7 +9,7 @@ labels:
 ---
 
 # Project: I Stay No Mo!
-###Overview
+### Overview
 The problem: Parking sucks because it is hard to find one. We waste so much time, gas money to find a parking. Additionally, parking permit is limited.
 The solution: This application allows people with parking that are leaving can notify those that are looking for parking to know thie location.
 
