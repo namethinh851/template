@@ -9,7 +9,7 @@ labels:
   - Lessons From Nature
 ---
 <div>
-  <img src="../images/nature.jpg">
+  <img class="ui medium left floated image" src="../images/nature.jpg">
 </div>
 
 
