@@ -12,6 +12,7 @@ labels:
   <img src="../images/nature.jpg">
 </div>
 
+
 When I look at the picture above, I can’t help but feel a sense of awe and admiration at nature, especially its ability to mix various colors, shapes, sizes, and materials into something of beauty. One may get tempted to think all of that beauty is a result of random chances. We just get very lucky that everything turns out fine. This is a very flawed way of thinking because behind the curtain of the scenery above, there is a design pattern that governs how those things are made and placed, which is known as fractals. This design pattern was discovered by Benoît Mandelbrot, a famous American-French-Polish mathematician. One can see the patterns that fractals produce everywhere in nature. The best illustration of this concept is demonstrated in the picture below. The pattern can be observed from someone as small as a leaf to a giant coastline.
 
 <div>
