@@ -28,7 +28,9 @@ Fractals, itself, is not a thing. It is just a template for things in nature to 
 * Behavioral
 
 Structural patterns establish a relationship between entities so that they can be easier to manage. Depending on the situation, it can be implemented as class-creation patterns to use inheritance, or object-pattern to introduce objects with new functionality into the program.
+
 Creational patterns mainly focus on class instantiation. Depending on the situation, it can be implemented as class-creation patterns or object-creation patterns.
+
 Behavioral patterns are used to create communications between entities so that they can be easier to communicate and interact with each other.
 
 Of these three available choices, the one I use the most is structural patterns. This is my pattern of choice because it allows me to optimize my code. With one set of code, I can make it perform its main functionality but in various ways. Similar to how root works, although its only job is to deliver nutrients to the body, it is used in different plants to keep them alive.
